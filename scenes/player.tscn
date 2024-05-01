@@ -420,5 +420,5 @@ script = ExtResource("1_35gkj")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_i063u")
-animation = &"back_attack"
-frame_progress = 0.679372
+animation = &"front_walk"
+frame_progress = 0.394407
